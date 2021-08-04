@@ -20,10 +20,6 @@ const weatherData = (address, callback) => {
         }
     })
 
-
-    
-
-
 }
 
 module.exports = weatherData;
